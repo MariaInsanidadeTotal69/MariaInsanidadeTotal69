@@ -1,16 +1,14 @@
-## Hi there 👋
+### Eai, bem vindos ao meu perfil !!! ☭
 
-<!--
-**MariaInsanidadeTotal69/MariaInsanidadeTotal69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+♠︎ Me chamo Maria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☠ Estou fatidicamente matriculada na Alura
+
+☠ Estou em um processo de desenvolvimento na linguagem JavaScript
+
+☠ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo (por favor, não entre!)
+
+♠︎ 00001119494916sp@al.educacao.sp.gov.br
